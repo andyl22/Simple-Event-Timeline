@@ -1,0 +1,8 @@
+.container-detail-summary {
+  display: flex;
+  justify-content: flex-start;
+  gap: 100px;
+  background: rgb(235, 235, 235);
+  margin: 20px 0px;
+  padding: 10px 15px;
+}

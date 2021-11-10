@@ -1,0 +1,16 @@
+.tabs {
+  display: flex;
+  border-bottom: 2px solid rgb(228, 237, 250);
+}
+
+.tab {
+  color: rgb(37, 64, 172);
+  font-weight: 600;
+  padding: 15px;
+  background: #E7F1F8;
+}
+
+.tab:hover {
+  border-bottom: 3px solid #63A3D1;
+  padding-bottom: 12px;
+}

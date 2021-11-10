@@ -1,0 +1,32 @@
+.event {
+  margin: 25px 70px;
+  display: flex;
+  gap: 50px;
+}
+
+.event-block {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+}
+
+.graphic {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.circle {
+  background: #219AB9;
+  border-radius: 20px;
+  width: 20px;
+  height: 20px;
+}
+
+.v-line {
+  height: 80px;
+  width: 2px;
+  background: #219AB9;
+  border: 1px solid #219AB9;
+}

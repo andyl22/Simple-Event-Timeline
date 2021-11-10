@@ -1,0 +1,15 @@
+.container-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-details h2 {
+  font-size: 18px;
+  color: #3C556A;
+  padding: 15px 0px;
+}
+
+.h-line {
+  border: 1px solid rgb(217, 250, 68);
+  width: 100%;
+}

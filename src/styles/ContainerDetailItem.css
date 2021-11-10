@@ -1,0 +1,15 @@
+.container-detail {
+  display: flex;
+  flex-direction: column;
+}
+
+.field-name {
+  color: rgb(92, 86, 86);
+  font-weight: 600;
+}
+
+.field-value {
+  color: rgb(43, 76, 146);
+  font-weight: 600;
+  max-width: 150px;
+}
