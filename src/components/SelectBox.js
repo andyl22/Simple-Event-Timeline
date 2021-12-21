@@ -3,7 +3,6 @@ import '../styles/SelectBox.css'
 
 function SelectBox(props) {
   const enumerateOptions = props.options.map(option => <option key={option} name={option} id={option}>{option}</option>)
-  console.log(enumerateOptions)
 
   return (
     <select>
