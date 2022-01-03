@@ -1,2 +1,3 @@
 # Created a simple event timeline graphic
-Created using react
+
+Container event timeline graphic implemented using React. No backend functionality.
